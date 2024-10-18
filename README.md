@@ -82,7 +82,7 @@ npm run dev
 
 ## Imágenes del proyecto
 
-![Captura de pantalla 2024-01-31 a la(s) 20 27 01](https://github.com/jorgegastonmartinez/ReactJs/assets/140458867/9e715a90-94c2-442e-992a-fdc58e4f4191)
+![Captura de pantalla 2024-01-31 a la(s) 20 27 01](https://github.com/jorgegastonmartinez/ecommerse-react/assets/140458867/9e715a90-94c2-442e-992a-fdc58e4f4191)
 
 ![Captura de pantalla 2024-01-31 a la(s) 20 29 38](https://github.com/jorgegastonmartinez/ReactJs/assets/140458867/0a98a6a6-1872-4d15-9a0a-8a1cdbb85f1f)
 
