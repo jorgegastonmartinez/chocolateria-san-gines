@@ -23,7 +23,7 @@ import CheckOutPage from "./pages/CheckOut/CheckOutPage.jsx";
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/chocolateria-san-gines/">
       <ItemsProvider>
         <div className="App">
           <Header />
