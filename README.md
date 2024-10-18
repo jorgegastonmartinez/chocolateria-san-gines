@@ -20,7 +20,7 @@ Este proyecto es una plataforma de ecommerce para la Chocolatería San Gines, do
 - Al clickear sobre uno de ellos, se enviará a una pagina de detalle del producto, donde se puede agregar la cantidad deseada de productos al carrito. Si el producto fue añadido exitosamente, se muestra un mensaje.
 
 ### CartWidget
-- Si hay productos añadidos al carrito, se mostrarán con un numerito debajo del icono del carrito.En el carrito, se muestran todos los productos añadidos. Allí es posible borrar productos de forma individual, vaciar el carrito por completo y volver a la tienda para seguir cargando productos. Si en el carrito no hay productos añadidos se mostrará el mensaje “no hay productos en el carrito”.
+- Si hay productos añadidos al carrito, se mostrarán con un numerito debajo del icono del carrito. En el carrito, se muestran todos los productos añadidos. Allí es posible borrar productos de forma individual, vaciar el carrito por completo y volver a la tienda para seguir cargando productos. Si en el carrito no hay productos añadidos se mostrará el mensaje “no hay productos en el carrito”.
 
 ### Finalizar compra
 - Al finalizar la compra nos dirigirá a una pagina donde el usuario deberá cargar correctamente todos los datos para poder concretar la compra.
@@ -33,7 +33,7 @@ Este proyecto es una plataforma de ecommerce para la Chocolatería San Gines, do
 
 ![ReactJs](https://img.shields.io/badge/ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white) Biblioteca JavaScript para construir la interfaz de usuario.
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white) Almacena y sincroniza datos entre los usuarios en tiempo real
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white) Almacena y sincroniza datos entre los usuarios en tiempo real.
 
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) Para gestionar la navegación y las rutas dinámicas entre las diferentes vistas de la aplicación.
 
@@ -51,9 +51,9 @@ https://jorgegastonmartinez.github.io/chocolateria-san-gines/
 
 * Utilice las categorías para filtrar la búsqueda de los productos.
 * Seleccionar el producto que desee comprar.
-* En el detalle se puede seleccionar cantidades. Con el button "agregar al carrito”, podrás ir agregando los productos al carrito de compras.
+* En el detalle se puede seleccionar cantidades. Con el boton "agregar al carrito”, podrás ir agregando los productos al carrito de compras.
 * Para realizar el pedido, dirigirse al carrito de compras, ubicado en la parte superior, dentro de la navbar.
-* Allí podrás agregar mas productos (volviendo a la tienda) eliminar productos, vaciar carrito, ver los precios detallados, el subtotal de cada producto, el total de todos los productos agregados al carrito y finalizar la compra.
+* Allí podrás eliminar productos, vaciar carrito, ver los precios detallados, el subtotal de cada producto, el total de todos los productos agregados al carrito y finalizar la compra.
 * Completar el formulario para poder realizar la compra. Cuando los datos del formulario se cargaron correctamente, se mostrará el ID de compra.
 * En el siguiente link de firebase `https://console.firebase.google.com/u/1/project/e-commerse-d742e/firestore/data/~2FstoreOrders?hl=es` , se verán reflejadas las ordenes de pedidos y la tienda con todos los productos cargados.
 
@@ -67,7 +67,7 @@ git clone https://github.com/jorgegastonmartinez/chocolateria-san-gines.git
 
 2. Navega a la carpeta del proyecto
 ```
-cd ecommerse-react
+cd chocolateria-san-gines
 ```
 
 3. Instalar las dependencias
