@@ -33,7 +33,7 @@ Este proyecto es una plataforma de ecommerce para la Chocolatería San Gines, do
 
 ![ReactJs](https://img.shields.io/badge/ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white) Biblioteca JavaScript para construir la interfaz de usuario.
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white) Almacena y sincroniza datos entre los usuarios en tiempo real
 
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) Para gestionar la navegación y las rutas dinámicas entre las diferentes vistas de la aplicación.
 
@@ -79,20 +79,6 @@ npm install
 ```
 npm run dev
 ```
-
-## Imágenes del proyecto
-
-![Captura de pantalla 2024-01-31 a la(s) 20 27 01](https://github.com/jorgegastonmartinez/ecommerse-react/assets/140458867/9e715a90-94c2-442e-992a-fdc58e4f4191)
-
-![Captura de pantalla 2024-01-31 a la(s) 20 29 38](https://github.com/jorgegastonmartinez/ReactJs/assets/140458867/0a98a6a6-1872-4d15-9a0a-8a1cdbb85f1f)
-
-![Captura de pantalla 2024-01-31 a la(s) 20 27 36](https://github.com/jorgegastonmartinez/ReactJs/assets/140458867/f843d44c-17a1-428b-9821-ace03aebee6c)
-
-![Captura de pantalla 2024-01-31 a la(s) 20 28 49](https://github.com/jorgegastonmartinez/ReactJs/assets/140458867/994e24ed-dd13-4602-858f-c1e29d07a73f)
-
-![Captura de pantalla 2024-01-31 a la(s) 20 29 15](https://github.com/jorgegastonmartinez/ReactJs/assets/140458867/d085adee-83b0-4288-8795-df401fe88b6e)
-
-![Captura de pantalla 2024-01-31 a la(s) 20 26 03](https://github.com/jorgegastonmartinez/ReactJs/assets/140458867/f0b1f653-4727-473a-bbaf-7cb0c6227687)
 
 
 ## Contacto

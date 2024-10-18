@@ -1,7 +1,7 @@
 import "./App.css";
 
 // react-router-dom
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 // CONTEXT
 import { ItemsProvider } from "./context/ItemsContext.jsx";
@@ -23,7 +23,7 @@ import CheckOutPage from "./pages/CheckOut/CheckOutPage.jsx";
 
 const App = () => {
   return (
-    <Router>
+    <BrowserRouter>
       <ItemsProvider>
         <div className="App">
           <Header />
@@ -46,7 +46,7 @@ const App = () => {
           <Footer />
         </div>
       </ItemsProvider>
-    </Router>
+    </BrowserRouter>
   );
 };
 
