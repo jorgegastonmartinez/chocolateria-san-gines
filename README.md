@@ -46,7 +46,7 @@ Este proyecto es una plataforma de ecommerce para la Chocolatería San Gines, do
 
 - Copie la siguiente url en su navegador 
 ```
-https://jorgegastonmartinez.github.io/ecommerse-react/
+https://jorgegastonmartinez.github.io/chocolateria-san-gines/
 ```
 
 * Utilice las categorías para filtrar la búsqueda de los productos.
@@ -62,7 +62,7 @@ https://jorgegastonmartinez.github.io/ecommerse-react/
 
 1. Clonar el repositorio desde Github
 ```
-git clone https://github.com/jorgegastonmartinez/ecommerse-react.git
+git clone https://github.com/jorgegastonmartinez/chocolateria-san-gines.git
 ```
 
 2. Navega a la carpeta del proyecto
